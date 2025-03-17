@@ -1,0 +1,42 @@
+{
+    "animals": [
+        {
+            "tag": "W1",
+            "species": "wolf",
+            "gender": "female",
+            "build": "medium",
+            "trait": [
+                "k",
+                "o"
+            ],
+            "coat": "caramel",
+            "antlers": null,
+            "temper": "aggressive",
+            "health": "healthy",
+            "position": [
+                3,
+                9
+            ]
+        },
+        {
+            "tag": "W2",
+            "species": "wolf",
+            "gender": "male",
+            "build": "large",
+            "trait": [
+                "K",
+                "K"
+            ],
+            "coat": "jet black",
+            "antlers": null,
+            "temper": "kind",
+            "health": "healthy",
+            "position": [
+                0,
+                3
+            ]
+        }
+    ],
+    "events": [],
+    "grid": []
+}
